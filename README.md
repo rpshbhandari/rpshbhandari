@@ -11,7 +11,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpshbhandari&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
     title="Top languages" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelcurrin" title="Streak stats" alt="Streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rpshbhandari" title="Streak stats" alt="Streak stats" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=rpshbhandari&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
     title="Profile stats" alt="Profile stats" />
