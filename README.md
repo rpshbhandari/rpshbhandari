@@ -18,8 +18,5 @@
 
 </a>
 
-The `S` score means "Top 1%" and is better than `A+`. Stats generated using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
-
-<img src="https://github-readme-stats.vercel.app/api?username=rpshbhandari&&show_icons=true">
 
 
