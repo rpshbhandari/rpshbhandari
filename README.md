@@ -15,7 +15,7 @@
 
 ### Skills 🎓
 
-I started learning programming with Python. So, its my first love :D !
+I started learning programming with Python and still in the basics though.
 ![Linux](https://img.shields.io/badge/OS-Linux-2bbc8a?logo=linux&logoColor=white)
 
 
@@ -24,7 +24,11 @@ I started learning programming with Python. So, its my first love :D !
 
 ### Projects 💼
 
+Own Personal Site: https://rupeshbhandari.github.io/
+
 ### I'm currently working on 🔭 
+
+Own Personal Site: https://rupeshbhandari.github.io/
 
 ### What is this README profile thing? 🤔
 To make one, create a repo named after your username (matching case exactly) and create a `README.md` file in it. Then go to your GitHub profile and you'll see your README appear there ✨.
