@@ -15,7 +15,6 @@
 
 ### Skills 🎓
 
-I started learning programming with Python and still in the basics though.
 ![Linux](https://img.shields.io/badge/OS-Linux-2bbc8a?logo=linux&logoColor=white)
 
 
