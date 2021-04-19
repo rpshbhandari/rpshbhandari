@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @RupeshBhandari
-- 👀 I’m interested in learning about tech in general 
-- 🌱 I’m currently learning Python!
-- 💞️ I’m looking to collaborate on Python Projects.
-- 📫 How to reach me via [Twittter](https://twitter.com/rupesh_bhandari)
 
 ### GitHub Stats
 
@@ -18,5 +13,24 @@
 
 </a>
 
+### Skills 🎓
+
+I started learning programming with Python. So, its my first love :D !
+![Linux](https://img.shields.io/badge/OS-Linux-2bbc8a?logo=linux&logoColor=white)
 
 
+### I’m currently learning 🌱
+![Python](https://img.shields.io/badge/Code-Python-2bbc8a?logo=python&logoColor=white)
+
+### Projects 💼
+
+### I'm currently working on 🔭 
+
+### What is this README profile thing? 🤔
+To make one, create a repo named after your username (matching case exactly) and create a `README.md` file in it. Then go to your GitHub profile and you'll see your README appear there ✨.
+
+Location of this **README**:
+    - [RupeshBhandari/RupeshBhandari](https://github.com/RupeshBhandari/RupeshBhandari/) 
+
+Still confused follow the links below:
+- GitHub topic: [profile-readme](https://github.com/topics/profile-readme)
