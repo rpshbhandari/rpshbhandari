@@ -30,5 +30,3 @@ Own Personal Site: https://rupeshbhandari.github.io/
 Own Personal Site: https://rupeshbhandari.github.io/
 
 
-Still confused follow the links below:
-- GitHub topic: [profile-readme](https://github.com/topics/profile-readme)
