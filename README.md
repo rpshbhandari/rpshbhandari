@@ -13,6 +13,8 @@
 
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshBhandari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Skills 🎓
 
 ![Linux](https://img.shields.io/badge/OS-Linux-2bbc8a?logo=linux&logoColor=white)
