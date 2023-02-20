@@ -10,7 +10,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RupeshBhandari" title="Streak stats" alt="Streak stats" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshBhandari&layout=compact&theme=radical&hide_title=true&hide_progress=true)](https://github.com/RupeshBhadnari/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshBhandari&layout=compact&theme=radical&hide_title=true&hide_progress=true)](https://github.com/RupeshBhadnari/github-readme-stats) -->
 
 
 ### Skills 🎓
