@@ -1,21 +1,17 @@
 
 ### GitHub Stats
+[![Rupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RupeshBhandari&show_icons=true&theme=dark&count_private=true)](https://github.com/RupeshBhandari/github-readme-stats)
 
-![Rupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RupeshBhandari&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshBhandari&layout=compact&show_icons=true&theme=radical)](https://github.com/RupeshBhadnari/github-readme-stats)
+<!-- ![Rupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RupeshBhandari&show_icons=true&theme=radical) -->
 
 <a href="https://github.com/RupeshBhandari">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshBhandari&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
-    title="Top languages" alt="Top languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RupeshBhandari" title="Streak stats" alt="Streak stats" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=RupeshBhandari&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
-    title="Profile stats" alt="Profile stats" />
-
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshBhandari&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshBhandari&layout=compact&theme=radical&hide_title=true&hide_progress=true)](https://github.com/RupeshBhadnari/github-readme-stats)
+
 
 ### Skills 🎓
 
