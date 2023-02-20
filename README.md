@@ -17,6 +17,7 @@
 
 ![Linux](https://img.shields.io/badge/OS-Linux-2bbc8a?logo=linux&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshBhandari)](https://github.com/anuraghazra/github-readme-stats)
 
 ### I’m currently learning 🌱
 ![Python](https://img.shields.io/badge/Code-Python-2bbc8a?logo=python&logoColor=white)
