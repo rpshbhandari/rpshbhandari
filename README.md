@@ -1,14 +1,20 @@
 
 ### GitHub Stats
-[![Rupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RupeshBhandari&show_icons=true&theme=dark&count_private=true)](https://github.com/RupeshBhandari/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshBhandari&layout=compact&show_icons=true&theme=radical)](https://github.com/RupeshBhadnari/github-readme-stats)
 <!-- ![Rupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RupeshBhandari&show_icons=true&theme=radical) -->
 
-<a href="https://github.com/RupeshBhandari">
+<!-- [![Rupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RupeshBhandari&show_icons=true&theme=dark&count_private=true)](https://github.com/RupeshBhandari/github-readme-stats) -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RupeshBhandari" title="Streak stats" alt="Streak stats" />
-</a>
+<p align="center"><img alt="My GitHub streak stats" src="https://github-readme-stats.vercel.app/api?username=RupeshBhandari&show_icons=true&theme=dark&count_private=true" />
+</p>
+
+<p align="center"><img alt="My GitHub streak stats" src="https://streak-stats.demolab.com/?user=RUpeshBhandari&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true" /></p>
+
+<p align="center"><img alt="Top Langs" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshBhandari&layout=compact&show_icons=true&theme=dark" /></p>
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshBhandari&layout=compact&show_icons=true&theme=dark)](https://github.com/RupeshBhadnari/github-readme-stats) -->
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshBhandari&layout=compact&theme=radical&hide_title=true&hide_progress=true)](https://github.com/RupeshBhadnari/github-readme-stats) -->
 
