@@ -31,8 +31,5 @@
 
 Own Personal Site: https://rupeshbhandari.github.io/
 
-### I'm currently working on 🔭 
-
-Own Personal Site: https://rupeshbhandari.github.io/
 
 
