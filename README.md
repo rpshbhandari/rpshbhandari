@@ -29,7 +29,7 @@
 
 ### Projects 💼
 
-Own Personal Site: https://rupeshbhandari.github.io/
+Own Personal Site: https://www.rupeshbhandari.com.np/
 
 
 
