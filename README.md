@@ -22,9 +22,6 @@
 ### Skills 🎓
 
 ![Linux](https://img.shields.io/badge/OS-Linux-2bbc8a?logo=linux&logoColor=white)
-
-
-### I’m currently learning 🌱
 ![Python](https://img.shields.io/badge/Code-Python-2bbc8a?logo=python&logoColor=white)
 
 ### Projects 💼
