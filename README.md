@@ -5,7 +5,7 @@
 
 <!-- [![Rupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RupeshBhandari&show_icons=true&theme=dark&count_private=true)](https://github.com/RupeshBhandari/github-readme-stats) -->
 
-<p align="center"><img alt="My GitHub streak stats" src="https://github-readme-stats.vercel.app/api?username=RupeshBhandari&show_icons=true&theme=dark&count_private=true" />
+<p align="center"><img alt="My GitHub streak stats" src="https://github-readme-stats.vercel.app/api?username=rpshbhandari&show_icons=true&theme=dark&count_private=true" />
 </p>
 
 <p align="center"><img alt="My GitHub streak stats" src="https://streak-stats.demolab.com/?user=RUpeshBhandari&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true" /></p>
