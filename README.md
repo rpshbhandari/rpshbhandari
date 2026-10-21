@@ -19,16 +19,17 @@ I build Microsoft Dynamics 365 Business Central extensions in AL, and Python too
 | [data](https://github.com/rpshbhandari/data) | Income tax slabs, TDS, VAT, depreciation pools and NEPSE charges as versioned JSON |
 | [double-taxation-avoidance-agreement](https://github.com/rpshbhandari/double-taxation-avoidance-agreement) | Nepal's SAARC and bilateral DTAAs in one indexed PDF |
 | [NCHL-Integration](https://github.com/rpshbhandari/NCHL-Integration) | Sign and send transaction requests to NCHL with a PKCS#12 certificate |
-| [IRD](https://github.com/rpshbhandari/IRD) | Look up PAN details from the Inland Revenue Department site |
+| [IRD](https://github.com/rpshbhandari/Python-Projects/tree/main/IRD) | Look up PAN details from the Inland Revenue Department site |
 
 ### Python
 
 | Project | What it does |
 | --- | --- |
-| [pyexam-cli](https://github.com/rpshbhandari/pyexam-cli) | Terminal exam app with SQLite storage and a `rich` UI |
+| [PyExamCLI](https://github.com/rpshbhandari/Python-Projects/tree/main/PyExamCLI) | Terminal exam app with SQLite storage and a `rich` UI |
+| [CBE](https://github.com/rpshbhandari/Python-Projects/tree/main/CBE) | Online exam site in Django: accounts, a question bank and timed exams |
 | [Peer-to-Peer--P2P--File-Sharing-System](https://github.com/rpshbhandari/Peer-to-Peer--P2P--File-Sharing-System) | LAN file sharing: UDP peer discovery, TCP transfers |
 | [NetworkTrafficAnalysisTool](https://github.com/rpshbhandari/NetworkTrafficAnalysisTool) | Capture packets with Scapy and summarise protocols and top talkers |
-| [Python-Projects](https://github.com/rpshbhandari/Python-Projects) | Small projects built from scratch, starting with an HTTP server on raw sockets |
+| [Python-Projects](https://github.com/rpshbhandari/Python-Projects) | Where IRD, PyExamCLI and CBE live, plus a Django site, an HTTP server on raw sockets, a Bingo game and my contributions to django-esewa and nepal-gateways |
 
 ### Stats
 
