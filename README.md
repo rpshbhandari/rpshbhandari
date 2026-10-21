@@ -2,7 +2,7 @@
 
 I build Microsoft Dynamics 365 Business Central extensions in AL, and Python tools and open data for Nepal's tax and finance rules.
 
-🌐 [rupeshbhandari.com.np](https://www.rupeshbhandari.com.np/) · 🧮 [tools.rupeshbhandari.com.np](https://tools.rupeshbhandari.com.np/) · 📊 [data.rupeshbhandari.com.np](https://data.rupeshbhandari.com.np/)
+🌐 [rupeshbhandari.com.np](https://www.rupeshbhandari.com.np/) · ✍️ [blog](https://blog.rupeshbhandari.com.np/) · 🧮 [tools](https://tools.rupeshbhandari.com.np/) · 📚 [books](https://books.rupeshbhandari.com.np/) · 📊 [data](https://data.rupeshbhandari.com.np/)
 
 ### Business Central
 
