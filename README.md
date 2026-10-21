@@ -17,7 +17,6 @@ I build Microsoft Dynamics 365 Business Central extensions in AL, and Python too
 | Project | What it does |
 | --- | --- |
 | [data](https://github.com/rpshbhandari/data) | Income tax slabs, TDS, VAT, depreciation pools and NEPSE charges as versioned JSON |
-| [double-taxation-avoidance-agreement](https://github.com/rpshbhandari/double-taxation-avoidance-agreement) | Nepal's SAARC and bilateral DTAAs in one indexed PDF |
 | [NCHL-Integration](https://github.com/rpshbhandari/NCHL-Integration) | Sign and send transaction requests to NCHL with a PKCS#12 certificate |
 | [IRD](https://github.com/rpshbhandari/Python-Projects/tree/main/IRD) | Look up PAN details from the Inland Revenue Department site |
 
