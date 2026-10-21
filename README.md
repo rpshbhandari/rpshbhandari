@@ -27,8 +27,6 @@ I build Microsoft Dynamics 365 Business Central extensions in AL, and Python too
 | --- | --- |
 | [PyExamCLI](https://github.com/rpshbhandari/Python-Projects/tree/main/PyExamCLI) | Terminal exam app with SQLite storage and a `rich` UI |
 | [CBE](https://github.com/rpshbhandari/Python-Projects/tree/main/CBE) | Online exam site in Django: accounts, a question bank and timed exams |
-| [Peer-to-Peer--P2P--File-Sharing-System](https://github.com/rpshbhandari/Peer-to-Peer--P2P--File-Sharing-System) | LAN file sharing: UDP peer discovery, TCP transfers |
-| [NetworkTrafficAnalysisTool](https://github.com/rpshbhandari/NetworkTrafficAnalysisTool) | Capture packets with Scapy and summarise protocols and top talkers |
 | [Python-Projects](https://github.com/rpshbhandari/Python-Projects) | Where the folder links above live, plus a Django quiz site, HTTP servers on raw sockets, a COVID-19 data analysis, a Bingo game and my contributions to django-esewa and nepal-gateways |
 
 ### Stats
