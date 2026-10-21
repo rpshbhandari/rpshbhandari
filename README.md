@@ -11,13 +11,14 @@ I build Microsoft Dynamics 365 Business Central extensions in AL, and Python too
 | [al-page-navigator](https://github.com/rpshbhandari/al-page-navigator) | VS Code extension: inserts a Page Navigator page into an AL project and picks a free page ID from `app.json` |
 | [Dimension-Correction](https://github.com/rpshbhandari/Dimension-Correction) | Correct dimensions on posted documents and ledger entries through a worksheet, with an audit log |
 | [MailMyReport](https://github.com/rpshbhandari/MailMyReport) | Email generated reports to configured recipients, with per-report subject, body and recipients |
+| [BCIntegration](https://github.com/rpshbhandari/Python-Projects/tree/main/BCIntegration) | Python clients for Business Central's OData web services: filters, paging, create, update and delete |
 
 ### Nepal tax and finance
 
 | Project | What it does |
 | --- | --- |
 | [data](https://github.com/rpshbhandari/data) | Income tax slabs, TDS, VAT, depreciation pools and NEPSE charges as versioned JSON |
-| [NCHL-Integration](https://github.com/rpshbhandari/NCHL-Integration) | Sign and send transaction requests to NCHL with a PKCS#12 certificate |
+| [NCHLIntegration](https://github.com/rpshbhandari/Python-Projects/tree/main/NCHLIntegration) | Sign and send transaction requests to NCHL with a PKCS#12 certificate |
 | [IRD](https://github.com/rpshbhandari/Python-Projects/tree/main/IRD) | Look up PAN details from the Inland Revenue Department site |
 
 ### Python
@@ -28,7 +29,7 @@ I build Microsoft Dynamics 365 Business Central extensions in AL, and Python too
 | [CBE](https://github.com/rpshbhandari/Python-Projects/tree/main/CBE) | Online exam site in Django: accounts, a question bank and timed exams |
 | [Peer-to-Peer--P2P--File-Sharing-System](https://github.com/rpshbhandari/Peer-to-Peer--P2P--File-Sharing-System) | LAN file sharing: UDP peer discovery, TCP transfers |
 | [NetworkTrafficAnalysisTool](https://github.com/rpshbhandari/NetworkTrafficAnalysisTool) | Capture packets with Scapy and summarise protocols and top talkers |
-| [Python-Projects](https://github.com/rpshbhandari/Python-Projects) | Where IRD, PyExamCLI and CBE live, plus a Django site, an HTTP server on raw sockets, a Bingo game and my contributions to django-esewa and nepal-gateways |
+| [Python-Projects](https://github.com/rpshbhandari/Python-Projects) | Where the folder links above live, plus a Django quiz site, HTTP servers on raw sockets, a COVID-19 data analysis, a Bingo game and my contributions to django-esewa and nepal-gateways |
 
 ### Stats
 
