@@ -1,32 +1,39 @@
+### Hi, I'm Rupesh 👋
 
-### GitHub Stats
+I build Microsoft Dynamics 365 Business Central extensions in AL, and Python tools and open data for Nepal's tax and finance rules.
 
-<!-- ![Rupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RupeshBhandari&show_icons=true&theme=radical) -->
+🌐 [rupeshbhandari.com.np](https://www.rupeshbhandari.com.np/) · 🧮 [tools.rupeshbhandari.com.np](https://tools.rupeshbhandari.com.np/) · 📊 [data.rupeshbhandari.com.np](https://data.rupeshbhandari.com.np/)
 
-<!-- [![Rupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RupeshBhandari&show_icons=true&theme=dark&count_private=true)](https://github.com/RupeshBhandari/github-readme-stats) -->
+### Business Central
 
-<p align="center"><img alt="My GitHub streak stats" src="https://github-readme-stats.vercel.app/api?username=rpshbhandari&show_icons=true&theme=dark&count_private=true" />
-</p>
+| Project | What it does |
+| --- | --- |
+| [al-page-navigator](https://github.com/rpshbhandari/al-page-navigator) | VS Code extension: inserts a Page Navigator page into an AL project and picks a free page ID from `app.json` |
+| [Dimension-Correction](https://github.com/rpshbhandari/Dimension-Correction) | Correct dimensions on posted documents and ledger entries through a worksheet, with an audit log |
+| [MailMyReport](https://github.com/rpshbhandari/MailMyReport) | Email generated reports to configured recipients, with per-report subject, body and recipients |
 
-<p align="center"><img alt="My GitHub streak stats" src="https://streak-stats.demolab.com/?user=rpshbhandari&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true" /></p>
+### Nepal tax and finance
 
-<p align="center"><img alt="Top Langs" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rpshbhandari&layout=compact&show_icons=true&theme=dark" /></p>
+| Project | What it does |
+| --- | --- |
+| [data](https://github.com/rpshbhandari/data) | Income tax slabs, TDS, VAT, depreciation pools and NEPSE charges as versioned JSON |
+| [double-taxation-avoidance-agreement](https://github.com/rpshbhandari/double-taxation-avoidance-agreement) | Nepal's SAARC and bilateral DTAAs in one indexed PDF |
+| [NCHL-Integration](https://github.com/rpshbhandari/NCHL-Integration) | Sign and send transaction requests to NCHL with a PKCS#12 certificate |
+| [IRD](https://github.com/rpshbhandari/IRD) | Look up PAN details from the Inland Revenue Department site |
 
+### Python
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshBhandari&layout=compact&show_icons=true&theme=dark)](https://github.com/RupeshBhadnari/github-readme-stats) -->
+| Project | What it does |
+| --- | --- |
+| [pyexam-cli](https://github.com/rpshbhandari/pyexam-cli) | Terminal exam app with SQLite storage and a `rich` UI |
+| [Peer-to-Peer--P2P--File-Sharing-System](https://github.com/rpshbhandari/Peer-to-Peer--P2P--File-Sharing-System) | LAN file sharing: UDP peer discovery, TCP transfers |
+| [NetworkTrafficAnalysisTool](https://github.com/rpshbhandari/NetworkTrafficAnalysisTool) | Capture packets with Scapy and summarise protocols and top talkers |
+| [Python-Projects](https://github.com/rpshbhandari/Python-Projects) | Small projects built from scratch, starting with an HTTP server on raw sockets |
 
+### Stats
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshBhandari&layout=compact&theme=radical&hide_title=true&hide_progress=true)](https://github.com/RupeshBhadnari/github-readme-stats) -->
+<p align="center"><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rpshbhandari&show_icons=true&theme=dark&count_private=true" /></p>
 
+<p align="center"><img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=rpshbhandari&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true" /></p>
 
-### Skills 🎓
-
-![Linux](https://img.shields.io/badge/OS-Linux-2bbc8a?logo=linux&logoColor=white)
-![Python](https://img.shields.io/badge/Code-Python-2bbc8a?logo=python&logoColor=white)
-
-### Projects 💼
-
-Own Personal Site: https://www.rupeshbhandari.com.np/
-
-
-
+<p align="center"><img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpshbhandari&layout=compact&show_icons=true&theme=dark" /></p>
